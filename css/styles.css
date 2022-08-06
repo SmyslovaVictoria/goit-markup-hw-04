@@ -168,12 +168,11 @@ img {
   url(../images/Img-hero.jpg);
   
   max-width: 1600px;
-  /* background-size: 100%; */
+  background-size: 100%;
   text-align: center;
   margin: 0 auto;
   padding-top: 200px;
   padding-bottom: 200px;
-  object-fit: contain;
 }
 
 .hero-title {
